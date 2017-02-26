@@ -7,6 +7,6 @@ The project brief asked the student to analyse data from a subset of passengers 
 The intended project outcomes were to demonstrate the student's ability to form questions based on data; wrangle, clean and analyse data using NumPy and/or Pandas; visualise data using Matplotlib; and practice communicating the results of analysis.
 
 File description:
-'DAND P2 - Titanic.ipynb' - Jupyter Notebook file containing data analysis and visualisations
-'titanic-data.csv' - csv file containing passenger records for 891 Titanic passengers
+'DAND P2 - Titanic.ipynb' - Jupyter Notebook file containing data analysis and visualisations  
+'titanic-data.csv' - csv file containing passenger records for 891 Titanic passengers  
 'dand-env-mac.yaml' - relevant Conda environment file
