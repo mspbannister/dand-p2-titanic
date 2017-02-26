@@ -9,3 +9,4 @@ The intended project outcomes were to demonstrate the student's ability to form 
 File description:
 'DAND P2 - Titanic.ipynb' - Jupyter Notebook file containing data analysis and visualisations
 'titanic-data.csv' - csv file containing passenger records for 891 Titanic passengers
+'dand-env-mac.yaml' - relevant Conda environment file
